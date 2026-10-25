@@ -9,7 +9,7 @@
     <title>My Introduction</title>
 </head>
 <body>
-    <h1>Atul Kumar Pal</h1>
+    <h1>Arsalaan Ali Khan</h1>
 
     <h2>About Me</h2>
     <p>I am a B.Tech CSE first-year student.</p>
